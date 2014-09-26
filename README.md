@@ -1,4 +1,4 @@
-AERrMOD
+AERMODr
 =======
 
 Low-level interface to AERMOD for R
