@@ -1,0 +1,1 @@
+setClass("SO", slots = list(ELEVUNIT = "character"))

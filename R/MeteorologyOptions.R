@@ -1,0 +1,1 @@
+setClass("ME", slots = list())
